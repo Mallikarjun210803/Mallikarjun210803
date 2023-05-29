@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mallikarjun
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Computer Science & Engineering
+- 📫 Reach me at mskullolli03@gmail.com
